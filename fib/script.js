@@ -20,4 +20,3 @@ function fibRec(num, array = [0, 1]) {
     }
     return array;
 }
-console.log(fibRec(8));
